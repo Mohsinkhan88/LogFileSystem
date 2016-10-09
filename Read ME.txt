@@ -1,0 +1,11 @@
+All Functions Implemented.
+
+-For user simplicity , block number begins from 1 instead of 0.
+-Exception Handling has been done where required.
+-No need to write .txt after input or output file names when passing arguments
+-Initial Directory - VFS
+-All new Directory would be created in this directory
+-Directory paths: VFS/********/***
+
+A few cases not catered to: 
+1) All files should have a unique name in the VFS, i.e Files within sub directories can not have the same name as a file in upper or lower level directory.
